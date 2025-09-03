@@ -1,0 +1,15 @@
+{
+  "nombres": "Juan",
+  "apellido": "Perez",
+  "telefono": "3511234567",
+  "dni": "12345678",
+  "provincia": "Cordoba",
+  "localidad": "Cordoba",
+  "fechaNacimiento": {
+    "dia": "15",
+    "mes": "08",
+    "anio": "1990"
+  },
+  "email": "user@test.com",
+  "contraseña": "Password123!"
+}
